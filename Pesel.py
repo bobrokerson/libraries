@@ -19,7 +19,7 @@ dff=pd.DataFrame(df, columns=['Pesel'])
 
 display(dff)
 
------------------------------------------------
+---------------------------------------------
 #Option 2
 
 from faker import Faker

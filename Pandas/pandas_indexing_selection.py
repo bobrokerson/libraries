@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # Библиотека Pandas (Версия для Python 3)
-
 # ## Data Frame
 
 # In[73]:

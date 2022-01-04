@@ -1,7 +1,20 @@
-I'm testing here:
+# Description
 
-libraries # pandas #faker #numpy #scipy #matplotlib
 
-vector_operations
+## Skills
+* Linear algebra
+* Optimization and matrix decompositions
+* Probability theory
+* Libraries: NumPy, Pandas, SciPy и Matplotlib
 
-matrix
+
+
+## Course from MIPT and Yandex. Mathematics and Data analysis
+
+[Course Link (Coursera)](https://www.coursera.org/learn/mathematics-and-python)
+
+# Example
+
+# License
+Open-sourced software licensed under the MIT license.
+

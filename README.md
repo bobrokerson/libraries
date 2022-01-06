@@ -1,5 +1,5 @@
 # Description
-## Mathematics and Data analysis
+Mathematics and Data analysis
 
 ## Skills
 * Linear algebra

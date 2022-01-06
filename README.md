@@ -1,6 +1,6 @@
 # Description 
 
-<p align="right">
+<p align="left">
   <img src="https://github.com/bobrokerson/mipt/blob/main/resources/logo.jpeg" width="50" >
 </p>
                                                                                            

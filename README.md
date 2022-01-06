@@ -1,11 +1,11 @@
 # Description 
 
-<p align="center">
-  <title="Mathematics and Data analysis", position=left>
-  <img src="https://github.com/bobrokerson/mipt/blob/main/resources/logo.jpeg" width="50" ">
+<p align="right">
+  <img src="https://github.com/bobrokerson/mipt/blob/main/resources/logo.jpeg" width="50" >
 </p>
-
-
+                                                                                           
+### Mathematics and Data analysis
+                                                                                           
 ## Skills
 * Linear algebra
 * Optimization and matrix decompositions

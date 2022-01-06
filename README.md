@@ -1,6 +1,9 @@
 # Description 
 
-![alt tag](https://github.com/bobrokerson/mipt/blob/main/resources/logo.jpeg "Mathematics and Data analysis ")
+<p align="center">
+  <img src="https://github.com/bobrokerson/mipt/blob/main/resources/logo.jpeg" width="150" title="Mathematics and Data analysis">
+</p>
+
 
 ## Skills
 * Linear algebra
@@ -18,4 +21,3 @@
 
 # License
 Open-sourced software licensed under the MIT license.
-

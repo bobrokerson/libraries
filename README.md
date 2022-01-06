@@ -1,5 +1,5 @@
 # Description
-
+## Mathematics and Data analysis
 
 ## Skills
 * Linear algebra
@@ -9,7 +9,7 @@
 
 
 
-## Course from MIPT and Yandex. Mathematics and Data analysis
+## Course from MIPT and Yandex
 
 [Course Link (Coursera)](https://www.coursera.org/learn/mathematics-and-python)
 

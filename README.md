@@ -1,6 +1,6 @@
 # Description 
-Mathematics and Data analysis 
-![alt tag](https://github.com/bobrokerson/mipt/blob/main/resources/logo.jpeg)
+
+![alt tag](https://github.com/bobrokerson/mipt/blob/main/resources/logo.jpeg "Mathematics and Data analysis ")
 
 ## Skills
 * Linear algebra

@@ -1,7 +1,7 @@
 # Description 
 
 <p align="center">
-  <img src="https://github.com/bobrokerson/mipt/blob/main/resources/logo.jpeg" width="1000" title="Mathematics and Data analysis">
+  <img src="https://github.com/bobrokerson/mipt/blob/main/resources/logo.jpeg" width="50" title="Mathematics and Data analysis">
 </p>
 
 

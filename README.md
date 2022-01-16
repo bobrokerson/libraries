@@ -20,6 +20,7 @@
 
 # Example
 [ex.#1](https://github.com/bobrokerson/mipt/blob/main/assignment/assignment_2_mipt.py)
+
 [ex.#2](https://github.com/bobrokerson/mipt/blob/main/assignment/assignment_1_mipt.py)
 
 # License

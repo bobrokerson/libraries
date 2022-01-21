@@ -27,11 +27,11 @@ def func(x):
 
 
 xarr = np.arange(1., 31.)
-print (xarr)
-print ("Shape x:", xarr.shape)
+print(xarr)
+print("x:", xarr.shape)
 yarr = np.array([func(x) for x in xarr])
 print(yarr)
-print("Shape y:", yarr.shape)
+print("y:", yarr.shape)
 
 plt.plot(xarr, yarr)
 plt.grid(True)
@@ -49,27 +49,32 @@ plt.show()
 from scipy.optimize import minimize
 
 minFuncVal = minimize(func, 5)
-print ("Min f(x): ", round(minFuncVal.fun,2), "x = ", minFuncVal.x)
-print ("Number: ", minFuncVal.nit)
+print("Min f(x): ", round(minFuncVal.fun,2), "x = ", minFuncVal.x)
+print("Number: ", minFuncVal.nit)
 
 
 minFuncVal2 = minimize(func, 2, method = 'BFGS')
-print ("Min f(x) (BFGS): ", round(minFuncVal2.fun, 2), "for x = ", minFuncVal2.x)
-print ("Number: ", minFuncVal2.nit)
+print("Min f(x) BFGS: ", round(minFuncVal2.fun, 2), "for x = ", minFuncVal2.x)
+print("Number: ", minFuncVal2.nit)
 
 minValR1 = np.zeros((2))
 minValR1[0] = round(minFuncVal2.fun, 2)
-print (minValR1)
+print(minValR1)
 
 # Теперь измените начальное приближение на x=30. Значение функции в точке минимума - ваш второй ответ по заданию 1, 
 # его надо записать через пробел после первого, с точностью до 2 знака после запятой.
 
 minFuncVal3 = minimize(func, 30, method = 'BFGS')
-print ("Min f(x) (BFGS method): ", minFuncVal3, "for x = ", minFuncVal3.x)
-print ("Number: ", minFuncVal3)
+print("Min f(x) BFGS method: ", minFuncVal3, "for x = ", minFuncVal3.x)
+print("Number: ", minFuncVal3)
 
 minValR1[1] = round(minFuncVal3.fun, 2)
-print (minValR1)
+print(minValR1)
 
 minValR1[1] = round(minFuncVal3.fun, 2)
-print (minValR1)
+print(minValR1)
+
+
+with open("docvalue.txt", "w") as file:
+    for item in minValR1:
+        file.write(str(item) + ' ')

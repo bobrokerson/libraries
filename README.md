@@ -20,11 +20,15 @@
 
 # Example
 
-[minimazed smooth function](https://github.com/bobrokerson/mipt/blob/main/assignment/min_smooth_fun.py)
+1. [theorem](https://github.com/bobrokerson/mipt/blob/main/assignment/theorem.py)
 
-[minimazed non-smooth sunction](https://github.com/bobrokerson/mipt/blob/main/assignment/min_nonsmooth_fun.py)
+2. [minimazed smooth function](https://github.com/bobrokerson/mipt/blob/main/assignment/min_smooth_fun.py)
 
-[global optimization](https://github.com/bobrokerson/mipt/blob/main/assignment/global_optimization.py)
+3. [minimazed non-smooth sunction](https://github.com/bobrokerson/mipt/blob/main/assignment/min_nonsmooth_fun.py)
+
+4. [global optimization](https://github.com/bobrokerson/mipt/blob/main/assignment/global_optimization.py)
+
+
 
 
 # License

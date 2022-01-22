@@ -19,9 +19,13 @@
 [Course Link (Coursera)](https://www.coursera.org/learn/mathematics-and-python)
 
 # Example
-[ex.#1](https://github.com/bobrokerson/mipt/blob/main/assignment/assignment_2_mipt.py)
 
-[ex.#2](https://github.com/bobrokerson/mipt/blob/main/assignment/assignment_1_mipt.py)
+[minimazed smooth function](https://github.com/bobrokerson/mipt/blob/main/assignment/min_smooth_fun.py)
+
+[minimazed non-smooth sunction](https://github.com/bobrokerson/mipt/blob/main/assignment/min_nonsmooth_fun.py)
+
+[global optimization](https://github.com/bobrokerson/mipt/blob/main/assignment/global_optimization.py)
+
 
 # License
 Open-sourced software licensed under the MIT license.

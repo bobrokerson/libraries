@@ -1,5 +1,4 @@
 # Description 
-
 <p align="left">
   <img src="https://github.com/bobrokerson/mipt/blob/main/resources/logo.jpeg" width="50" >
 </p>
@@ -16,6 +15,8 @@
 
 
 ## Course from MIPT and Yandex
+
+MIPT - Moscow Institute of Physics and Technology, is a public research university located in Moscow, Russia. It prepares specialists in theoretical and applied physics, applied mathematics and related disciplines.
 
 [Course Link (Coursera)](https://www.coursera.org/learn/mathematics-and-python)
 

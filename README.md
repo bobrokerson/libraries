@@ -22,13 +22,15 @@ MIPT - Moscow Institute of Physics and Technology, is a public research universi
 
 # Example
 
-1. [theorem](https://github.com/bobrokerson/mipt/blob/main/assignment/theorem.py)
+1. [wine analysis for company](https://github.com/bobrokerson/mipt/blob/main/notebook/wine.ipynb)
 
-2. [minimazed smooth function](https://github.com/bobrokerson/mipt/blob/main/assignment/min_smooth_fun.py)
+2. [theorem](https://github.com/bobrokerson/mipt/blob/main/assignment/theorem.py)
 
-3. [minimazed non-smooth sunction](https://github.com/bobrokerson/mipt/blob/main/assignment/min_nonsmooth_fun.py)
+3. [minimazed smooth function](https://github.com/bobrokerson/mipt/blob/main/assignment/min_smooth_fun.py)
 
-4. [global optimization](https://github.com/bobrokerson/mipt/blob/main/assignment/global_optimization.py)
+4. [minimazed non-smooth sunction](https://github.com/bobrokerson/mipt/blob/main/assignment/min_nonsmooth_fun.py)
+
+5. [global optimization](https://github.com/bobrokerson/mipt/blob/main/assignment/global_optimization.py)
 
 
 # License

@@ -11,7 +11,7 @@
 * Optimization and matrix decompositions
 * Gradient and antigradient. Methods of optimization
 * Math expectation and dispersion, probability theory
-* Libraries: NumPy, Pandas, SciPy и Matplotlib
+* Libraries: NumPy, Pandas, SciPy, Scikit-learn и Matplotlib
 
 
 ## Course from MIPT and Yandex

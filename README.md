@@ -1,17 +1,17 @@
-# Description 
+# Description
 <p align="left">
   <img src="https://github.com/bobrokerson/mipt/blob/main/resources/logo.jpeg" width="50" >
 </p>
-                                                                                           
+
 ### Mathematics and Data analysis
-                                                                                           
+
 ## Skills
 * Linear algebra. Basic skills mathematical analysis
 * Miniima and maxima of function, vectors
 * Optimization and matrix decompositions
 * Gradient and antigradient. Methods of optimization
 * Math expectation and dispersion, probability theory
-* Libraries: NumPy, Pandas, SciPy, Scikit-learn и Matplotlib
+* Libraries: NumPy, Pandas, SciPy, Scikit-learn, JoyPy и Matplotlib.
 
 
 ## Course from MIPT and Yandex

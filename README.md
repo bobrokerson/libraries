@@ -11,7 +11,7 @@
 * Optimization and matrix decompositions
 * Gradient and antigradient. Methods of optimization
 * Math expectation and dispersion, probability theory
-* Libraries: NumPy, Pandas, SciPy, JoyPy,Scikit-learn, 
+* Libraries: NumPy, Pandas, SciPy, JoyPy,Scikit-learn, Scrapy
 * Visual libraries: Matplotlib, Altair, Seaborn, Bokeh
 
 

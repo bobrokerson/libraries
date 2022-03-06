@@ -13,6 +13,7 @@
 * Math expectation and dispersion, probability theory
 * Libraries: NumPy, Pandas, SciPy, JoyPy,Scikit-learn, Scrapy
 * Visual libraries: Matplotlib, Altair, Seaborn, Bokeh
+* ML libraries: XGBoost
 
 
 ## Course from MIPT and Yandex

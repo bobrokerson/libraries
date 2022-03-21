@@ -11,9 +11,10 @@
 * Optimization and matrix decompositions
 * Gradient and antigradient. Methods of optimization
 * Math expectation and dispersion, probability theory
-* Libraries: NumPy, Pandas, SciPy, JoyPy,Scikit-learn, Scrapy, TensorFlow
+* Libraries: NumPy, Pandas, SciPy, JoyPy,Scikit-learn, Scrapy, [TensorFlow](https://projector.tensorflow.org/)
 * Visual libraries: Matplotlib, Altair, Seaborn, Bokeh
-* ML libraries: XGBoost, Pytorch, Keras, nltk
+* ML: libraries: XGBoost, Pytorch, Keras, 
+* NLP: nltk 
 
 
 ## Course from MIPT and Yandex
